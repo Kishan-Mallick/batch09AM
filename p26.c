@@ -35,12 +35,11 @@ int main()
     printf("Enter the Number\n");
     scanf("%d",&num);
 
-
+   
     if(num > 50)
     {
         printf("Number is greater than 50\n");
     }
-
     
     return 0;
 }

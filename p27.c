@@ -31,6 +31,7 @@ int main()
 
     if(num > 50)
     {
+        //multiple kaam 
         printf("Number is greater than 50\n"); 
     }
     else
