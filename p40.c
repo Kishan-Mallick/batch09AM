@@ -7,6 +7,8 @@
     2 -> tuesday
 
     8 9 10 -> Invalid Input...
+
+    break -> terminates the current flow
 */
 
 #include<stdio.h>
