@@ -11,4 +11,7 @@
 -> WAP to count the factors of given number
 -> WAP to check number is prime or not
 -> WAP to print fibonacci Series.
+
+
+//solve using for and while loop  = 20 question
 */
